@@ -1,4 +1,4 @@
-# Source: https://github.com/per1234/.github/blob/main/workflow-templates/check-python.md
+# Source: https://github.com/per1234/project-assets/blob/main/workflow-templates/check-python.md
 name: Check Python
 
 env:

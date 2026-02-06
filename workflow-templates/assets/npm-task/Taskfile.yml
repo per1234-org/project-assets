@@ -2,7 +2,7 @@
 version: "3"
 
 tasks:
-  # Source: https://github.com/per1234/.github/blob/main/workflow-templates/assets/npm-task/Taskfile.yml
+  # Source: https://github.com/per1234/project-assets/blob/main/workflow-templates/assets/npm-task/Taskfile.yml
   npm:install-deps:
     desc: Install dependencies managed by npm
     cmds:

@@ -1,4 +1,4 @@
-# Source: https://github.com/per1234/.github/blob/main/workflow-templates/check-npm.md
+# Source: https://github.com/per1234/project-assets/blob/main/workflow-templates/check-npm.md
 name: Check npm
 
 env:
