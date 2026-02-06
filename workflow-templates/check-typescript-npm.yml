@@ -1,4 +1,4 @@
-# Source: https://github.com/per1234/.github/blob/main/workflow-templates/check-typescript-npm.md
+# Source: https://github.com/per1234/project-assets/blob/main/workflow-templates/check-typescript-npm.md
 name: Check TypeScript
 
 env:

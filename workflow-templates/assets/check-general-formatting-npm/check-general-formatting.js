@@ -1,4 +1,4 @@
-// Source: https://github.com/per1234/.github/blob/main/workflow-templates/assets/check-general-formatting-npm/check-general-formatting.js
+// Source: https://github.com/per1234/project-assets/blob/main/workflow-templates/assets/check-general-formatting-npm/check-general-formatting.js
 
 const shell = require('shelljs');
 
