@@ -91,7 +91,7 @@ jobs:
       - name: Download sketches reports artifact
         id: download-artifact
         continue-on-error: true # If compilation failed for all boards then there are no artifacts
-        uses: actions/download-artifact@v7
+        uses: actions/download-artifact@v8
         with:
           path: ${{ env.SKETCHES_REPORTS_PATH }}
 
