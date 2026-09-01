@@ -12,7 +12,6 @@ cp \
   "${WORKFLOW_TEMPLATES_PATH}/check-javascript-npm.yml" \
   "${WORKFLOW_TEMPLATES_PATH}/check-json.yml" \
   "${WORKFLOW_TEMPLATES_PATH}/check-markdown.yml" \
-  "${WORKFLOW_TEMPLATES_PATH}/check-npm.yml" \
   "${WORKFLOW_TEMPLATES_PATH}/check-prettier-formatting.yml" \
   "${WORKFLOW_TEMPLATES_PATH}/check-shell.yml" \
   "${WORKFLOW_TEMPLATES_PATH}/check-yaml.yml" \
