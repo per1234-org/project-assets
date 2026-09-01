@@ -47,11 +47,11 @@ require (
 	github.com/stretchr/testify v1.10.0 // indirect
 	github.com/xanzy/ssh-agent v0.3.3 // indirect
 	github.com/zeebo/xxh3 v1.0.2 // indirect
-	golang.org/x/crypto v0.37.0 // indirect
-	golang.org/x/net v0.39.0 // indirect
+	golang.org/x/crypto v0.52.0 // indirect
+	golang.org/x/net v0.54.0 // indirect
 	golang.org/x/sync v0.16.0 // indirect
-	golang.org/x/sys v0.34.0 // indirect
-	golang.org/x/term v0.33.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
+	golang.org/x/term v0.43.0 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	mvdan.cc/sh/v3 v3.12.0 // indirect
