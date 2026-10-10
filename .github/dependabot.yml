@@ -11,6 +11,7 @@ updates:
     schedule:
       interval: daily
     labels:
+      - "topic: dependencies"
       - "topic: infrastructure"
     assignees:
       - per1234
@@ -22,7 +23,8 @@ updates:
     schedule:
       interval: daily
     labels:
-      - "topic: infrastructure"
+      - "topic: code"
+      - "topic: dependencies"
     assignees:
       - per1234
 
@@ -32,6 +34,7 @@ updates:
     schedule:
       interval: daily
     labels:
+      - "topic: dependencies"
       - "topic: infrastructure"
     assignees:
       - per1234
